@@ -4,8 +4,8 @@ This project aims to develop deep learning models for the classification of ches
 
 ## [Dataset](https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset/download?datasetVersionNumber=2)
 
-Click on the Dataset to download the zip Dataset file.
-The dataset used in this project is the COVID-19 Chest X-ray dataset, which consists of X-ray images collected from various sources. The dataset is divided into training and testing sets, ensuring a balanced distribution of images across the three classes.
+- Click on the Dataset to download the zip Dataset file.
+- The dataset used in this project is the COVID-19 Chest X-ray dataset, which consists of X-ray images collected from various sources. The dataset is divided into training and testing sets, ensuring a balanced distribution of images across the three classes.
 
 ## Model Architecture
 
