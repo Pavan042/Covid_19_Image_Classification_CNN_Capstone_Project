@@ -11,11 +11,11 @@ This project aims to develop deep learning models for the classification of ches
 
 Three different models are implemented for the classification task:
 
-1. Custom CNN Model: This model is designed specifically for this project and consists of multiple convolutional layers, max-pooling layers, and fully connected layers.
+1. **CNN Model**: This model is designed specifically for this project and consists of multiple convolutional layers, max-pooling layers, and fully connected layers.
 
-2. VGG16: The VGG16 model, a popular pre-trained architecture, is used as a base model and fine-tuned for this classification task. Additional layers are added on top to adapt it to the specific problem.
+2. **VGG16**: The VGG16 model, a popular pre-trained architecture, is used as a base model and fine-tuned for this classification task. Additional layers are added on top to adapt it to the specific problem.
 
-3. ResNet50: The ResNet50 model, another pre-trained architecture, is also used as a base model. It employs residual blocks and skip connections to enable better learning of complex features.
+3. **ResNet50**: The ResNet50 model, another pre-trained architecture, is also used as a base model. It employs residual blocks and skip connections to enable better learning of complex features.
 
 ## Getting Started
 
