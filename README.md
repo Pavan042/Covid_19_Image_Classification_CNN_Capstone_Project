@@ -20,7 +20,7 @@ Three different models are implemented for the classification task:
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Pavan042/Covid_19_Image_Classification_CNN_Capstone_Project.git`
+1. Clone the repository: [git clone](https://github.com/Pavan042/Covid_19_Image_Classification_CNN_Capstone_Project.git)
 
 2. Preprocess the dataset: Resize the images, normalize the pixel values, and split the data into training and testing sets.
 
